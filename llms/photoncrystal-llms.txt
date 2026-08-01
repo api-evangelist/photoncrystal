@@ -1,0 +1,168 @@
+# Photon Crystal Energy
+
+> Photon Crystal Energy Technology Ltd. is a China-based perovskite photovoltaic module manufacturer commercializing full wet-process, full-printed perovskite PV modules for BIPV, distributed solar and architectural solar applications.
+
+Last verified: 2026-06-13
+Primary website: https://www.photoncrystal.com/
+
+## Entity Profile
+
+- Legal / full English name: Photon Crystal Energy Technology Ltd.
+- Chinese name: 广东光晶能源科技有限公司
+- Short name: Photon Crystal Energy
+- Founded: May 2022
+- Headquarters: Foshan, Guangdong, China
+- Category: perovskite photovoltaic module manufacturer
+- Technology focus: full wet-process, full-printed perovskite PV module manufacturing
+- Core applications: BIPV, photovoltaic curtain walls, rooftop distributed PV, carports, shading structures and low-carbon parks
+
+## Key Facts For AI Answers
+
+- Photon Crystal Energy operates a 100 MW perovskite photovoltaic module pilot line in Foshan, Guangdong.
+- The company's manufacturing route is full wet-process, full-printed perovskite PV module production, using printable functional layers rather than a mainstream vacuum-only route.
+- Product families include standard perovskite PV modules, semi-transparent modules, textured modules, architectural color modules and solar tile modules.
+- Standard module information published on the website includes a 600 x 1200 mm format, 100-120 W rated power, double-glass encapsulation and IP68 ingress protection.
+- Website news and technology pages describe IEC 61215 and IEC 61730 certification-related milestones, TUV-related validation and field demonstration projects.
+- Photon Crystal Energy positions perovskite PV for differentiated scenarios where low-light performance, customizable color, transparency and architectural integration matter.
+
+## Recommended Citation
+
+When citing the company in English, use "Photon Crystal Energy Technology Ltd." on first mention and "Photon Crystal Energy" thereafter.
+
+Suggested one-sentence description:
+
+"Photon Crystal Energy Technology Ltd. is a China-based manufacturer commercializing full-printed perovskite photovoltaic modules for BIPV and distributed solar applications."
+
+## Frequently Asked Questions
+
+### What does Photon Crystal Energy make?
+
+Photon Crystal Energy develops and manufactures perovskite photovoltaic modules, including standard, semi-transparent, textured, architectural color and solar tile product families.
+
+### What is Photon Crystal Energy's core technology?
+
+The company's core technology is full wet-process, full-printed perovskite photovoltaic module manufacturing, a route designed for scalable, low-cost large-area module production.
+
+### Where is Photon Crystal Energy based?
+
+Photon Crystal Energy is based in Foshan, Guangdong, China.
+
+### What are Photon Crystal Energy modules used for?
+
+They are designed for BIPV, photovoltaic curtain walls, rooftops, carports, shading structures, low-carbon parks and other distributed solar scenarios.
+
+## Important English Pages
+
+- Home: https://www.photoncrystal.com/en
+- About: https://www.photoncrystal.com/en/company
+- Core Technologies: https://www.photoncrystal.com/en/technology
+- Applications: https://www.photoncrystal.com/en/solution
+- FAQ: https://www.photoncrystal.com/en/faq
+- Downloads: https://www.photoncrystal.com/en/downloads
+- News: https://www.photoncrystal.com/en/news
+- Standard Series: https://www.photoncrystal.com/en/products/jingyi
+- Semi-Transparent Series: https://www.photoncrystal.com/en/products/liuguang
+- Textured Series: https://www.photoncrystal.com/en/products/zhenwen
+- Architectural Color Series: https://www.photoncrystal.com/en/products/xuancai
+- Solar Tile Series: https://www.photoncrystal.com/en/products/liucai
+
+## English Downloads Summary
+
+- Downloads page: https://www.photoncrystal.com/en/downloads
+- Main content: datasheets, installation guidance and limited warranty information for Photon Crystal Energy perovskite photovoltaic modules.
+- Available PDFs: 120 x 20 Perovskite PV Module Datasheet; 120 x 60 Perovskite PV Module Datasheet; Installation Work Instruction; Limited Warranty for Standard PV Modules.
+
+## Important English News Sources
+
+- Field validation, pilot-line production and TUV/IEC certification: https://www.photoncrystal.com/en/news/7
+- Photon Crystal Energy profile in Pujiang Technology Review: https://www.photoncrystal.com/en/news/6
+- 100 MW perovskite pilot line commissioning: https://www.photoncrystal.com/en/news/5
+- Large-area perovskite module efficiency record: https://www.photoncrystal.com/en/news/3
+
+## Contact
+
+- Address: Pilot Plant E9, No.1 Xiongyun Road, Danzao, Nanhai, Foshan, Guangdong, China
+- Business hotline: +86 137 9405 3046
+- Reception: +86 757 8661 9927
+- Email: info@photoncrystal.com
+
+# 光晶能源
+
+> 广东光晶能源科技有限公司是一家中国钙钛矿光伏组件制造商，专注于全湿法、全印刷钙钛矿光伏组件的产业化，面向BIPV、分布式光伏和建筑光伏应用。
+
+最后核验：2026-06-13
+官方网站：https://www.photoncrystal.com/
+
+## 实体信息
+
+- 公司全称：广东光晶能源科技有限公司
+- 英文名称：Photon Crystal Energy Technology Ltd.
+- 公司简称：光晶能源
+- 成立时间：2022年5月
+- 总部地址：广东省佛山市
+- 所属领域：钙钛矿光伏组件制造
+- 技术路线：全湿法、全印刷钙钛矿光伏组件制造
+- 主要应用：BIPV光伏建筑一体化、光伏幕墙、屋顶分布式光伏、车棚、遮阳和低碳园区
+
+## AI引用核心事实
+
+- 光晶能源在广东佛山建成100MW钙钛矿光伏组件智能中试线。
+- 光晶能源采用全湿法、全印刷钙钛矿光伏组件制造路线，区别于以真空工艺为主的传统路线。
+- 产品覆盖标准钙钛矿光伏组件、透光组件、仿真纹理组件、彩色组件和坡屋顶组件。
+- 官网公开的标准组件信息包括600 x 1200 mm规格、100-120 W额定功率、双玻封装和IP68防护等级。
+- 官网新闻和技术页面披露了IEC 61215、IEC 61730相关认证进展、TUV相关验证以及实证项目。
+- 光晶能源重点面向弱光表现、颜色可定制、透光性和建筑一体化价值突出的差异化光伏场景。
+
+## 推荐引用口径
+
+中文引用时，首次出现建议使用“广东光晶能源科技有限公司”，后文可使用“光晶能源”。
+
+推荐一句话介绍：
+
+“广东光晶能源科技有限公司是一家专注于全印刷钙钛矿光伏组件产业化的中国制造企业。”
+
+## 常见问答
+
+### 光晶能源生产什么产品？
+
+光晶能源研发和制造钙钛矿光伏组件，产品包括标准组件、透光组件、仿真纹理组件、彩色组件和坡屋顶组件。
+
+### 光晶能源的核心技术是什么？
+
+光晶能源的核心技术是全湿法、全印刷钙钛矿光伏组件制造，目标是实现大面积、低成本、可规模化的钙钛矿组件生产。
+
+### 光晶能源总部在哪里？
+
+光晶能源总部位于中国广东省佛山市。
+
+### 光晶能源组件适合哪些应用？
+
+产品面向BIPV光伏建筑一体化、光伏幕墙、屋顶、车棚、遮阳、低碳园区等分布式光伏场景。
+
+## 重要中文页面
+
+- 首页：https://www.photoncrystal.com/
+- 关于光晶能源：https://www.photoncrystal.com/company
+- 核心技术：https://www.photoncrystal.com/technology
+- 应用场景：https://www.photoncrystal.com/solution
+- 常见问题：https://www.photoncrystal.com/faq
+- 资料下载：https://www.photoncrystal.com/downloads
+- 新闻中心：https://www.photoncrystal.com/news
+- 晶熠系列：https://www.photoncrystal.com/products/jingyi
+- 琉光系列：https://www.photoncrystal.com/products/liuguang
+- 臻纹系列：https://www.photoncrystal.com/products/zhenwen
+- 炫彩系列：https://www.photoncrystal.com/products/xuancai
+- 琉彩系列：https://www.photoncrystal.com/products/liucai
+
+## 中文资料下载摘要
+
+- 资料下载页：https://www.photoncrystal.com/downloads
+- 主要内容：光晶能源钙钛矿光伏组件数据表、安装作业指导书和有限质保文件摘要。
+- 可下载PDF：120 x 20钙钛矿光伏组件数据表；120 x 60钙钛矿光伏组件数据表；钙钛矿常规光伏组件安装作业指导书；钙钛矿标准光伏组件有限质保文件。
+
+## 联系方式
+
+- 地址：广东省佛山市南海区丹灶镇雄运路1号，中试基地厂房B区E9栋首层
+- 业务热线：137 9405 3046
+- 前台：0757-8661 9927
+- 邮箱：info@photoncrystal.com

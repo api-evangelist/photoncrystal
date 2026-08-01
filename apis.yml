@@ -1,7 +1,27 @@
 aid: photoncrystal
-name: photoncrystal
-description: photoncrystal is a company surfaced as a portfolio company of qiming and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/photoncrystal.png
+name: Photon Crystal Energy
+description: Photon Crystal Energy Technology Ltd. (广东光晶能源科技有限公司) is a China-based
+  perovskite photovoltaic module manufacturer, founded May 2022 and headquartered in
+  Foshan, Guangdong. The company commercializes full wet-process, full-printed perovskite
+  PV modules for building-integrated photovoltaics (BIPV), photovoltaic curtain walls,
+  rooftop distributed solar, carports and architectural solar applications. Product
+  families include standard, semi-transparent, textured, architectural color and solar
+  tile modules, and the firm operates a 100 MW full-printed perovskite pilot line with
+  IEC 61215 / IEC 61730 certification milestones. Surfaced as a portfolio company of
+  Qiming and added to the API Evangelist network; it publishes a marketing/corporate
+  website but no public API, SDK, or developer surface.
 url: https://raw.githubusercontent.com/api-evangelist/photoncrystal/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +31,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Perovskite
+- Photovoltaics
+- Solar
+- BIPV
+- Clean Energy
+- Manufacturing
+- Hardware
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +48,20 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/photoncrystal-domain-security.yml
 - type: Website
-  url: https://photoncrystal.com
+  url: https://www.photoncrystal.com/en/
+- type: About
+  url: https://www.photoncrystal.com/en/company
+- type: Blog
+  url: https://www.photoncrystal.com/en/news
+- type: Support
+  url: https://www.photoncrystal.com/en/faq
+- type: LLMsTxt
+  url: llms/photoncrystal-llms.txt
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
